@@ -1,3 +1,5 @@
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje
+
 # Patika.dev BINARY SEARCH TREE PROJECT
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 =>5 root
